@@ -15,7 +15,4 @@ A MERN stack web app that displays short quotes from books, similar to short-for
 ## Tech Stack
 
 - **Frontend:** React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
 - **Styling:** CSS (flexbox, gradient background)  
-- **HTTP Requests:** Axios  
